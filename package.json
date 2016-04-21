@@ -1,0 +1,18 @@
+{
+  "name": "moewme",
+  "version": "1.0.0",
+  "description": "cat chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/RusselViola/MeowMe.git"
+  },
+  "author": "Russel Viola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
